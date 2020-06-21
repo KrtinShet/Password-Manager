@@ -1,7 +1,7 @@
 # Python Password Manager
 
 
-This is a simple python password manager in command line. 
+A simple command line python password manager. 
 Using Sqlite3 database and AES256 for encryption and decryption.
 
 ## To Run the code:
